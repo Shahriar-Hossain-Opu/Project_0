@@ -1,0 +1,2 @@
+Expand-Archive -Path "C:\Users\Shahraiar Hossain\tutorial.zip" -DestinationPath "C:\Users\Shahraiar Hossain\extracted"
+
